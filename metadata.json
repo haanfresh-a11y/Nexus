@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Nexus",
+  "description": "A next-generation multimodal AI workbench featuring real-time voice interaction, advanced chat with grounding, and creative image generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
